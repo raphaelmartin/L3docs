@@ -7,3 +7,7 @@ title: Fiche — MAUGER,
 
 * La thématique est souvent formulée d'abord depuis d'autres univers (médiatiques, politiques, académiques). Il faut la traduire en question d'enquête/objet empirique.
 * La "dénaturalisation du monde social" implique dépaysement/distanciation.
+Les fichiers mathématiques.
+
+Test.
+:)
