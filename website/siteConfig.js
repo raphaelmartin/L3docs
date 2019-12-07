@@ -21,8 +21,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site', // Title for your website.
-  tagline: 'A website for testing',
+  title: 'Révisions S1', // Title for your website.
+  tagline: 'infocom / socio',
   url: 'https://raphaelmartin.github.io', // Your website URL
   baseUrl: '/L3docs/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -38,24 +38,23 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    {doc: 'icv1', label: 'P3'},
+    {doc: 'ficheMauger', label: 'P8'},
+    {doc: 'apropos', label: 'A propos'},
   ],
 
   // If you have users set above, you add it here:
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/favicon.ico',
+  headerIcon: 'img/logo.png',
   footerIcon: 'img/favicon.ico',
   favicon: 'img/favicon.ico',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#5c6f9d',
-    secondaryColor: '#404d6d',
+    primaryColor: '#e53935',
+    secondaryColor: '#ffca28',
   },
 
   /* Custom fonts for website */
